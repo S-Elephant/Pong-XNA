@@ -1,0 +1,58 @@
+D:\Development\Projects\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Development\Projects\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\white1px.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\white1px50Trans.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Error.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Default.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\XNALib.dll
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\XNALib.pdb
+D:\Development\Projects\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+D:\Development\Projects\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\ball.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\verticalBar.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\SoundFX\4359__NoiseCollector__PongBlipF4.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\SoundFX\4365__NoiseCollector__pongblipA5.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\SoundFX\35964__johansyd__cheer.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Paused.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Gui.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Title.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Credit.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\CreditTitle.xnb
+D:\Development\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Music\29589__ERH__angels.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\white1px.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\white1px50Trans.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Error.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Default.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Paused.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Gui.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Credit.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\CreditTitle.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Lib_Windows.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Lib_Windows.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Particles\circle.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Particles\figure1.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Particles\star.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Ball\ball01.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Ball\ball02.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Ball\ball03.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Ball\ball04.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\BG\stars01.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\blip01.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\blip02.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\cheer.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\mainMenu.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\Pong.xgs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\paddle01.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\MenuChoice.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\MenuTitle.xnb

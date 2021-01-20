@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 1559325550;
+    PC Bank Last Modified High = 30168575;
+    Bank Last Revised Low = 1457294300;
+    Bank Last Revised High = 30168575;
+
+    Wave
+    {
+        Name = blip01;
+        File = blip01.wav;
+        Build Settings Last Modified Low = 1426044300;
+        Build Settings Last Modified High = 30168575;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 58;
+            Play Region Length = 5680;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1434293768;
+            Last Modified High = 30118217;
+        }
+    }
+
+    Wave
+    {
+        Name = blip02;
+        File = blip02.wav;
+        Build Settings Last Modified Low = 1426044300;
+        Build Settings Last Modified High = 30168575;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 58;
+            Play Region Length = 3150;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1434293768;
+            Last Modified High = 30118217;
+        }
+    }
+
+    Wave
+    {
+        Name = mainMenu;
+        File = mainMenu.wav;
+        Build Settings Last Modified Low = 1426044300;
+        Build Settings Last Modified High = 30168575;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 3995136;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1037891164;
+            Last Modified High = 30118241;
+        }
+    }
+
+    Wave
+    {
+        Name = cheer;
+        File = cheer.wav;
+        Build Settings Last Modified Low = 1426200550;
+        Build Settings Last Modified High = 30168575;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 265312;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2000107722;
+            Last Modified High = 30118218;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

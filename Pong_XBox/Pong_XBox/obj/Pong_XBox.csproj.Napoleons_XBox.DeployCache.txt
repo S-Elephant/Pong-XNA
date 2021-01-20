@@ -1,0 +1,43 @@
+5f7c77c2455f40c581b620d7681fe6f8
+0
+Napoleons_XBox
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\
+129408118620000000
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\GameThumbnail.png
+2011-01-29T21:27:45.4843750Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Lib_XBox.dll
+2011-01-30T12:13:42.2343750Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Pong_XBox.exe
+2011-01-30T12:20:05.4062500Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Credit.xnb
+2011-01-29T21:28:12.3125000Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\CreditTitle.xnb
+2011-01-29T21:28:12.4218750Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Default.xnb
+2011-01-29T21:28:12.5000000Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Error.xnb
+2011-01-29T21:28:12.5781250Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Gui.xnb
+2011-01-29T21:28:12.6562500Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\MenuChoice.xnb
+2011-01-30T12:02:49.9062500Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Paused.xnb
+2011-01-29T21:28:12.7656250Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Title.xnb
+2011-01-29T21:28:12.9531250Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Music\29589__ERH__angels.xnb
+2011-01-29T21:28:15.0937500Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\SoundFX\35964__johansyd__cheer.xnb
+2011-01-30T11:49:19.5468750Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\SoundFX\4359__NoiseCollector__PongBlipF4.xnb
+2011-01-30T11:49:19.5625000Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\SoundFX\4365__NoiseCollector__pongblipA5.xnb
+2011-01-30T11:49:19.5781250Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Textures\ball.xnb
+2011-01-29T21:28:12.0156250Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Textures\verticalBar.xnb
+2011-01-29T21:28:12.0937500Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Textures\white1px.xnb
+2011-01-29T21:28:12.1093750Z
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Textures\white1px50Trans.xnb
+2011-01-29T21:28:12.1406250Z

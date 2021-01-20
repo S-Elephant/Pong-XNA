@@ -1,0 +1,5 @@
+﻿- collision detection with paddles doesn't work properly when the paddles move towards the ball over the y-axis.
+- maybe some more effects
+- add some asteroids that pass by that will reverse the ball or something
+- make the ai make mistakes now and then.
+- Add xbox compatibility.

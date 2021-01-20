@@ -1,0 +1,47 @@
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Textures\ball.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Textures\verticalBar.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Textures\white1px.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Textures\white1px50Trans.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Credit.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\CreditTitle.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Default.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Error.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Gui.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Paused.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Title.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Music\29589__ERH__angels.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\SoundFX\35964__johansyd__cheer.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Pong_XBox.exe
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Pong_XBox.pdb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Lib_XBox.dll
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Lib_XBox.pdb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\obj\Xbox 360\Debug\Pong_XBox.exe
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\obj\Xbox 360\Debug\Pong_XBox.pdb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\SoundFX\4359__NoiseCollector__PongBlipF4.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\SoundFX\4365__NoiseCollector__pongblipA5.xnb
+D:\Development\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\MenuChoice.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Textures\ball.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Textures\verticalBar.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Textures\white1px.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Textures\white1px50Trans.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Credit.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\CreditTitle.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Default.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Error.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Gui.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Paused.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\Title.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Fonts\MenuChoice.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\Music\29589__ERH__angels.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\SoundFX\35964__johansyd__cheer.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\SoundFX\4359__NoiseCollector__PongBlipF4.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Content\SoundFX\4365__NoiseCollector__pongblipA5.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Pong_XBox.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Pong_XBox.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\bin\Xbox 360\Debug\Lib_XBox.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\obj\Xbox 360\Debug\Pong_XBox.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong_XBox\Pong_XBox\obj\Xbox 360\Debug\Pong_XBox.pdb

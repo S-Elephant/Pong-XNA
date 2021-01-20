@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\white1px.png</Source>
+      <Name>Textures\white1px</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\white1px.xnb</Output>
+      <Time>2010-12-01T11:10:01.8125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\white1px50Trans.png</Source>
+      <Name>Textures\white1px50Trans</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\white1px50Trans.xnb</Output>
+      <Time>2010-12-01T11:10:01.859375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\circle.png</Source>
+      <Name>Textures\Particles\circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Particles\circle.xnb</Output>
+      <Time>2011-08-08T14:57:18.65525+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\figure1.png</Source>
+      <Name>Textures\Particles\figure1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Particles\figure1.xnb</Output>
+      <Time>2011-08-08T14:57:18.639625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\star.png</Source>
+      <Name>Textures\Particles\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Particles\star.xnb</Output>
+      <Time>2011-08-08T14:57:18.65525+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ball\ball01.png</Source>
+      <Name>Textures\Ball\ball01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Ball\ball01.xnb</Output>
+      <Time>2011-08-08T15:13:33.795875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ball\ball02.png</Source>
+      <Name>Textures\Ball\ball02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Ball\ball02.xnb</Output>
+      <Time>2011-08-08T15:13:33.764625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ball\ball03.png</Source>
+      <Name>Textures\Ball\ball03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Ball\ball03.xnb</Output>
+      <Time>2011-08-08T15:13:33.78025+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ball\ball04.png</Source>
+      <Name>Textures\Ball\ball04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\Ball\ball04.xnb</Output>
+      <Time>2011-08-08T15:13:33.78025+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Error.spritefont</Source>
+      <Name>Fonts\Error</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Error.xnb</Output>
+      <Time>2010-12-01T11:10:08.9375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Default.spritefont</Source>
+      <Name>Fonts\Default</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Default.xnb</Output>
+      <Time>2010-12-01T11:10:17.25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Paused.spritefont</Source>
+      <Name>Fonts\Paused</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Paused.xnb</Output>
+      <Time>2010-12-01T12:28:18.609375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Gui.spritefont</Source>
+      <Name>Fonts\Gui</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Gui.xnb</Output>
+      <Time>2010-12-01T12:36:24.703125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Title.spritefont</Source>
+      <Name>Fonts\Title</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Title.xnb</Output>
+      <Time>2010-12-01T13:33:33.265625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Credit.spritefont</Source>
+      <Name>Fonts\Credit</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\Credit.xnb</Output>
+      <Time>2010-12-01T13:35:08.765625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\CreditTitle.spritefont</Source>
+      <Name>Fonts\CreditTitle</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\CreditTitle.xnb</Output>
+      <Time>2010-12-01T13:35:08.765625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BG\stars01.jpg</Source>
+      <Name>Textures\BG\stars01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\BG\stars01.xnb</Output>
+      <Time>2011-08-08T21:02:27.499875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\blip01.wav</Source>
+      <Name>Audio\blip01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\blip01.xnb</Output>
+      <Time>2011-08-08T21:11:27.92175+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\blip02.wav</Source>
+      <Name>Audio\blip02</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\blip02.xnb</Output>
+      <Time>2011-08-08T21:11:27.92175+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\cheer.wav</Source>
+      <Name>Audio\cheer</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\cheer.xnb</Output>
+      <Time>2011-08-08T21:11:27.92175+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\mainMenu.wav</Source>
+      <Name>Audio\mainMenu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\mainMenu.xnb</Output>
+      <Time>2011-08-08T21:14:32.781125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\paddle01.png</Source>
+      <Name>Textures\paddle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Textures\paddle01.xnb</Output>
+      <Time>2011-08-08T21:23:23.718625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuChoice.spritefont</Source>
+      <Name>Fonts\MenuChoice</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\MenuChoice.xnb</Output>
+      <Time>2011-08-08T21:59:30.1405+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuTitle.spritefont</Source>
+      <Name>Fonts\MenuTitle</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Fonts\MenuTitle.xnb</Output>
+      <Time>2011-08-08T21:59:30.10925+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\PongContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\PongContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-13T18:01:29.936875+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
